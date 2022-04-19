@@ -1,0 +1,10 @@
+C:\Users\Mert\source\repos\Csharp4\WindowsFormAPI\bin\Debug\WindowsFormAPI.exe.config
+C:\Users\Mert\source\repos\Csharp4\WindowsFormAPI\bin\Debug\WindowsFormAPI.exe
+C:\Users\Mert\source\repos\Csharp4\WindowsFormAPI\bin\Debug\WindowsFormAPI.pdb
+C:\Users\Mert\source\repos\Csharp4\WindowsFormAPI\obj\Debug\WindowsFormAPI.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\Csharp4\WindowsFormAPI\obj\Debug\WindowsFormAPI.Form1.resources
+C:\Users\Mert\source\repos\Csharp4\WindowsFormAPI\obj\Debug\WindowsFormAPI.Properties.Resources.resources
+C:\Users\Mert\source\repos\Csharp4\WindowsFormAPI\obj\Debug\WindowsFormAPI.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\Csharp4\WindowsFormAPI\obj\Debug\WindowsFormAPI.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Csharp4\WindowsFormAPI\obj\Debug\WindowsFormAPI.exe
+C:\Users\Mert\source\repos\Csharp4\WindowsFormAPI\obj\Debug\WindowsFormAPI.pdb
